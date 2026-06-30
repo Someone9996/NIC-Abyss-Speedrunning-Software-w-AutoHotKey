@@ -4,6 +4,8 @@ I used this to grind guest skin, but I don't really care too much about it anymo
 ## REQUIREMENTS
 + AutoHotKey application
 + https://github.com/alexmk92/FindText-v2/blob/main/FindText.ahk
+<img width="1780" height="570" alt="image" src="https://github.com/user-attachments/assets/cba165b9-f285-4564-afa4-b3a973266535" />
+
 
 ## CONTROLS
 Anyways here are the controls:
